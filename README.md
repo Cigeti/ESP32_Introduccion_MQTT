@@ -25,4 +25,4 @@ Este proyecto ha sido posible gracias a la colaboración de Andrés Hernández C
 
 ## Problemas o Sugerencias
 
-- Tener cuidado con los topicos tanto el del emtrada como el de salida.
+- Tener cuidado con los topicos tanto el del entrada como el de salida.

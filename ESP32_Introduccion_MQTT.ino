@@ -16,7 +16,7 @@ int ledval = 0;
 char datos[40];
 String resultS = "";
 
-long lastmillis = 0; //Para el delay
+long lastmillis = 0; //Para el  delay
 
 void wifiInit() {
   Serial.print("Conectándose a ");
