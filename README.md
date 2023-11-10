@@ -2,28 +2,27 @@
 
 Programacion basica de ESP32 para MQTT, con la finalidad de comprender las bases de este.
 
-## Pasos a seguir para usar la pagina: mqttx
+## Paso 1: Pasos a seguir para usar la pagina: mqttx
 
-## Paso 1: 
+- Entrar al link: http://www.emqx.io/online-mqtt-client#/recent_connections
+- New connection
+- Se nombra la coneccion 
+- Connect
+- +New subscription
+- Topic: Salida01: es donde se reciben datos
+- Cambiar json por Plaintext
+- Topic: Entrada01
 
-Entrar al link: https://mqttx.app/web
+## Paso 2: Descarga de librerias
 
-## Paso 2: Título del Paso 2
+- Se descarga la libreria: Wifi
+- Se descarga la libreria: PubSubClient
 
-Descripción detallada del paso 2. Puedes incluir instrucciones, comandos o cualquier otra información relevante.
-
-## Paso 3: Título del Paso 3
-
-Descripción detallada del paso 3. Puedes incluir instrucciones, comandos o cualquier otra información relevante.
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, por favor sigue las siguientes pautas de contribución.
+Este proyecto ha sido posible gracias a la colaboración de Andrés Hernández Chaves e Ignacio Cordero Chinchilla durante la práctica supervisada del año 2023.
 
 ## Problemas o Sugerencias
 
-Si encuentras algún problema o tienes alguna sugerencia, por favor crea un problema en [enlace al repositorio de problemas](URL del repositorio de problemas).
-
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la Licencia](URL de la Licencia).
+- Tener cuidado con los topicos tanto el del emtrada como el de salida.
